@@ -1,0 +1,2631 @@
+Interpreter LISTENER REGISTERED
+interpreter.Init
+
+WEJSCIE DO INIT SDEFO
+Our working type is OPERATION_SIMULATED_DATA
+Path to our data is: C:\test
+Path to our data is: battleL@B1
+
+NASZE JOB ID TO: 22d33a4f-b3f0-48a2-b3fd-713a54ffc55e
+Press any key to continue . . . Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Area middle point:
+Lat:33.2683
+Lon: -117.397
+Interpreter: Processing Platform Loc segment
+BIG: 5142.96  bin: 1024
+PRZETWORZONO:
+Radar Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.42
+5C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>833
+0
+3curl.exe00
+RES: 5.022425
+ -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Platform Loc segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\PlatformLocFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished with warning: No job definition segment sent in the last 30 seconds"}Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[ERROR] Number of resolutions is too high in comparison to the size of tiles
+failed to encode image: opj_start_compress
+failed to encode image: opj_encode
+failed to encode image: opj_end_compress
+failed to encode image
+Dropped: duplicated simTime
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 704 ms
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 678 kB | 678.0 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=001
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_001.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"ec933b1e-ad7a-46c1-934d-5dba84b59121","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+
+[INFO] tile number 1 / 1
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 680 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 634 kB | 634.3 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=002
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_002.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"2fb5f31a-a201-4736-8cb8-c97a52e60bca","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 680 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 573 kB | 573.5 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=003
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_003.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"7986ec92-0ed9-45be-a0a7-004e3c1db20b","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 701 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 522 kB | 522.1 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=004
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_004.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"9cafcefd-e904-4350-b2f5-36c416fa4a47","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+Interpreter: Processing Mission segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\MissionFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 611 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 441 kB | 441.7 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=005
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_005.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"8847aaf6-2c54-4d7a-8ea6-10295286b65f","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 612 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}pscp: source: No such file or directory
+
+ags.j2k                   | 368 kB | 368.3 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=006
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_006.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"36dccbb3-0dae-4771-9fae-da8a17ad1cd1","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 351 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 321 kB | 321.2 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=007
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_007.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"6f92ae28-cc23-4dbd-94bb-edb7a81a4ddb","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 328 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 255 kB | 255.4 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=008
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_008.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"932f4c67-15c6-4359-91a9-ee9f7832a2d9","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 354 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 237 kB | 237.9 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=009
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_009.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"0bc9dc90-d1de-467a-a000-a38209b02318","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 320 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 225 kB | 225.6 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=010
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_010.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"e8084516-236a-4656-a255-446323f73691","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 299 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 208 kB | 208.6 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=011
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_011.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"e1f1b995-6de1-447f-ac7f-4ea12673136d","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}
+[INFO] tile number 1 / 1
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 305 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 205 kB | 205.2 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=012
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_012.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"2566eea0-735d-4610-8a44-7cd6962fdaab","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 297 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+Interpreter: Processing Mission segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\MissionFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}pscp: source: No such file or directory
+
+ags.j2k                   | 203 kB | 203.2 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xmlODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=013
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_013.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"301723f7-20df-43e8-8154-3190d396f044","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 285 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 198 kB | 199.0 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=014
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_014.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"3b8a58e5-1b95-4648-8aa9-00c4f6254f38","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 305 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 195 kB | 195.9 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=015
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_015.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"0f9acbfe-8c32-49bc-993f-f6b848d970cf","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 270 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 191 kB | 191.3 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=016
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_016.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"8381c33c-6cef-4a91-a468-4762e91a50aa","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 277 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 183 kB | 183.9 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=017
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_017.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"b3ae82b2-4989-40ba-a74c-a099ab271bda","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 269 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 181 kB | 181.7 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=018
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_018.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"a6290ead-0c84-4842-b0db-227472d58807","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 260 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 182 kB | 182.5 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=019
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_019.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"baa4bb15-4e70-42dc-a62a-8ab911d9583f","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 259 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 179 kB | 179.5 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=020
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_020.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"65c5b645-ab62-43d5-889f-65b640861df8","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 247 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}pscp: source: No such file or directory
+
+ags.j2k                   | 171 kB | 171.1 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=021
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_021.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"29cb188b-642a-4762-9c18-3d6e1915eb4e","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS dzia┼éa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 238 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 169 kB | 169.7 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=022
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+Interpreter: Processing Mission segment
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\MissionFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_022.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}{"action":"format","jobId":"362c6ce3-56b1-4880-87ff-4f7c14915b6f","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 245 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 169 kB | 169.4 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=023
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_023.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"fcba1951-9f5f-4f8c-8cb2-9e35b264ab78","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 239 ms
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 166 kB | 166.3 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=024
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_024.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"e2dc4abe-0d81-4363-8fa9-55c63d3f6abc","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 262 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 167 kB | 167.3 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=025
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_025.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"ca871b05-ccae-4235-8278-de7f8c2942a6","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 269 ms
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 164 kB | 164.6 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=026
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_026.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"9add2250-b421-4f11-a7b0-035aa3204fa9","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 228 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 165 kB | 165.8 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=027
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_027.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"4d60c785-da62-4ced-baeb-408efdac4bcd","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 239 ms
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 166 kB | 166.8 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=028
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_028.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"1ab84242-3f77-40ee-88a5-5a579575f24a","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+Dropped: duplicated simTime
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 266 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 167 kB | 167.6 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=029
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_029.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"0091febc-1a14-42e8-9645-9f744141d064","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 251 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 169 kB | 169.6 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=030
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_030.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"9df9b44a-a434-48b3-a27d-8f6cc8c2d5fb","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+
+[INFO] tile number 1 / 1
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}encode time: 276 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 170 kB | 170.3 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=031
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_031.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"e3ae349f-f784-4ef8-bf16-7cf0da2d9bf0","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 251 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 176 kB | 176.1 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=032
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+Interpreter: Processing Mission segment
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\MissionFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_032.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"bdbdfa56-7703-48b5-a7e0-c3807e4b63eb","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 253 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+ags.j2k                   | 180 kB | 180.7 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=033
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_033.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"739882e2-10b6-4887-92dd-aa6e8bef6d6c","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
+ODEBRANO:
+ONDULUS Task=7
+136
+0
+33.283889
+-117.418611
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+
+[INFO] tile number 1 / 1
+[INFO] Generated outfile ExtensionFiles\ExtensionExchange\ags.j2k
+encode time: 244 ms
+$$$$$$$$$$$$$$$$$$$ MAM PAKIET SAR$$$$$$$$$$
+Interpreter: Passing j2k file to linux
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -P 22 -pw battleL@B1 source C:\Presagis\Suite18\Ondulus_Radar\projects\AGS\ExtensionFiles\ExtensionExchange\ags.j2k admin@sdefo:/home/admin/SAR_images/To_convert/IM001/
+pscp: source: No such file or directory
+
+ags.j2k                   | 173 kB | 174.0 kB/s | ETA: 00:00:00 | 100%
+TEST C:\test\4545Headers\header.xml
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem echo off
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\putty
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET pwd=battleL@B1
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>SET index=034
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>PSCP.EXE -pw battleL@B1 -P 22 source C:\test\4545Headers\header.xml admin@sdefo:/home/admin/SAR_images/To_convert
+Interpreter: Processing Job Definition segment
+CURRENT MODE: UNSPECIFIED_MODE_GENERIC
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d @C:\test\JobDefFromVS.json http://sdefo:8000/services/stanag4607/pushdata
+{"jobId":"22d33a4f-b3f0-48a2-b3fd-713a54ffc55e","action":"pushData","status":"finished"}pscp: source: No such file or directory
+
+header.xml                | 0 kB |   0.8 kB/s | ETA: 00:00:00 | 100%
+
+ODEBRANO:
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>ONDULUS Task=7
+PSCP.EXE136
+ -pw battleL@B1 -P 22 source C:\test\4545Headers\imageSubheader\header.xml admin@sdefo:/home/admin/SAR_images/To_convert/IM001 0
+33.283889
+-117.418611
+
+33.280556
+-117.372778
+33.248056
+-117.372778
+33.260833
+-117.425833
+0
+300
+Dropped: duplicated task
+pscp: source: No such file or directory
+
+header.xml                | 1 kB |   1.8 kB/s | ETA: 00:00:00 | 100%
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem cd C:\Users\admin\Desktop\curl-7.65.1_3-win64-mingw\curl-7.65.1-win64-mingw\bin
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"file:/home/admin/SAR_images/NSIF_converted/Ondulus4545_034.nsif\"}" http://sdefo:8000/services/stanag4545/format
+{"action":"format","jobId":"cacf644a-e95d-40ef-b89d-a7503dd71962","status":"started"}
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem curl.exe -X POST -d "{\"source\":\"/home/admin/SAR_images/To_convert\",\"destination\":\"udp://10.250.142.129:4006\"}" http://sdefo:8000/services/stanag4545/format
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem 10.250.142.129:4617 - TGGS działa ! //port 4006 dla 4545
+
+C:\Presagis\Suite18\Ondulus_Radar\projects\AGS>rem chyba udp:\/\/ ? albo \\ albo // lub cos innego      172.18.22.13:
